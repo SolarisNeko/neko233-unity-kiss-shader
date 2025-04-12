@@ -1,0 +1,89 @@
+# MacOS 标签隐藏文件
+.DS_Store
+*.DS_Store
+
+# DLL
+Assets/HotUpdateAssets/Code
+Assets/HotUpdateAssets/DLL
+
+# 共享资源
+#solaris-team-project-rookie/
+_temp233/
+temp233/
+
+
+# IDE
+.idea/
+.vs/
+.rider/
+.vscode/
+.fleet/
+
+
+# Log
+Logs/
+
+# 编译 Cache
+Library/
+Temp/
+
+UserSettings/**
+
+# Unity
+# 编译输出, 相当于 java target/
+obj/
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/*
+# 用户配置
+UserSettings/*
+
+# Resources | YooAssets
+/Assets/Resources-tableConfig/**
+#/Assets/resources-external/**
+/Assets/resources-fgui/**
+yoo/
+/Assets/YooAssetOutput
+/Assets/YooAssetOutput.meta
+/Assets/RiderFlow.UserData
+/Assets/RiderFlow.UserData.meta
+# Unity 自动生成的工程文件
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+
+# Builds | 打包
+Build/
+*.apk
+*.aab
+*.exe
+*.app
+*.manifest
+*.ipa
+Bundles/
+HybridCLRData/
+
+# Packed Addressables | 打包的地址
+*.bin
+*.bin.meta
+# 存放 Unity Package 的相关依赖，类似于项目的包管理器，包含外部插件或工具
+#Packages/*
+
+# Gradle files | Android Gradle 构建文件
+.gradle/
+
+
+# FGUI
+fgui-project/.objs
+Assets/resources-fgui/**
+Assets/Resources/FGUI/**

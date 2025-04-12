@@ -1,0 +1,21 @@
+{
+  "name": "com.neko233.kiss-shader",
+  "version": "1.0.0",
+  "displayName": "KissShader",
+  "description": "play effect by shader in 2D/3D",
+  "unity": "2022.1",
+  "dependencies": {
+  },
+  "keywords": [
+    "shader",
+    "kiss",
+    "effect",
+    "neko233",
+    "2D",
+    "3D"
+  ],
+  "author": {
+    "name": "SolarisNeko",
+    "url": "https://github.com/SolarisNeko"
+  }
+}

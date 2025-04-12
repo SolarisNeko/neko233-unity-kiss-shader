@@ -1,7 +1,7 @@
 {
   "name": "com.neko233.kiss-shader",
   "version": "1.0.0",
-  "displayName": "KissShader",
+  "displayName": "unity-kiss-shader",
   "description": "play effect by shader in 2D/3D",
   "unity": "2022.1",
   "dependencies": {

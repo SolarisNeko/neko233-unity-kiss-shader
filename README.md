@@ -17,7 +17,7 @@ Render Pipeline = **URP**
 ### Package Manager > add package by Git URL
 ```sh
 
-https://github.com/SolarisNeko/neko233-unity-kiss-shader.git?path=Packages/src
+https://github.com/SolarisNeko/neko233-unity-kiss-shader.git?path=Packages/neko233-unity-kiss-shader
 
 ```
 
@@ -25,7 +25,7 @@ https://github.com/SolarisNeko/neko233-unity-kiss-shader.git?path=Packages/src
 ```sh
 {
   "dependencies": {
-    "com.neko233.neko233-unity-kiss-shader": "https://github.com/SolarisNeko/neko233-unity-kiss-shader.git?path=Packages/src",
+    "com.neko233.neko233-unity-kiss-shader": "https://github.com/SolarisNeko/neko233-unity-kiss-shader.git?path=Packages/neko233-unity-kiss-shader",
     // ...
   }
 }

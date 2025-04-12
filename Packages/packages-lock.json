@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.neko233.kiss-shader": {
-      "version": "file:src",
+      "version": "file:neko233-unity-kiss-shader",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
